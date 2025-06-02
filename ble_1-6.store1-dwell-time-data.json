@@ -1,0 +1,209 @@
+[
+    {
+        "description": "",
+        "id": "111890001",
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C97",
+        "name": "Pomme",
+        "radioId": "Z001-5A6J"
+    },
+    {
+        "description": "",
+        "id": "111890002",
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C97",
+        "name": "Banane",
+        "radioId": "Z001-5A6J"
+    },
+    {
+        "description": "",
+        "id": "111890003",
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C97",
+        "name": "Orange",
+        "radioId": "Z001-5A6J"
+    },
+    {
+        "description": "",
+        "id": "111890004",
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C97",
+        "name": "Fraise",
+        "radioId": "Z001-5A6J"
+    },
+    {
+        "description": "",
+        "id": "111890005,
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C97",
+        "name": "Kiwi",
+        "radioId": "Z001-5B9K"
+    },
+    {
+        "description": "",
+        "id": "111890006,
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C97",
+        "name": "Mangue",
+        "radioId": "Z001-5B9K"
+    },
+    {
+        "description": "",
+        "id": "111890007,
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C97",
+        "name": "Raisin",
+        "radioId": "4Z1-00R11"
+    },
+    {
+        "description": "",
+        "id": "222890001,
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C97",
+        "name": "Ananas",
+        "radioId": "4Z1-00R2D"
+    },
+    {
+        "description": "",
+        "id": "222890002,
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C97",
+        "name": "Pastèque",
+        "radioId": "4Z1-00R2D"
+    },
+    {
+        "description": "",
+        "id": "222890003,
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C97",
+        "name": "Melon",
+        "radioId": "4Z1-00RH3"
+    },
+    {
+        "description": "",
+        "id": "222890004,
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C97",
+        "name": "Cerise",
+        "radioId": "Z001-5ZBW"
+    },
+    {
+        "description": "",
+        "id": "222890005,
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C97",
+        "name": "Poire",
+        "radioId": "Z001-5ZBW"
+    },
+    {
+        "description": "",
+        "id": "222890006,
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C97",
+        "name": "Pêche",
+        "radioId": "4Z1-00R11"
+    },
+    {
+        "description": "",
+        "id": "333890001,
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C97",
+        "name": "Abricot",
+        "radioId": "Z001-5ZBW"
+    },
+    {
+        "description": "",
+        "id": "333890002,
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C95",
+        "name": "Framboise",
+        "radioId": "Z001-59ZK"
+    },
+    {
+        "description": "",
+        "id": "333890003,
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C95",
+        "name": "Myrtille",
+        "radioId": "4Z1-00R1R"
+    },
+    {
+        "description": "",
+        "id": "333890004,
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C95",
+        "name": "Litchi",
+        "radioId": "4Z1-00R1R"
+    },
+    {
+        "description": "",
+        "id": "444890001,
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C95",
+        "name": "Grenade",
+        "radioId": "4Z1-00XXW"
+    },
+    {
+        "description": "",
+        "id": "444890002,
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C95",
+        "name": "Figue",
+        "radioId": "Z001-59ZK"
+    },
+    {
+        "description": "",
+        "id": "444890003,
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C95",
+        "name": "Mandarine",
+        "radioId": "4Z1-00XXW"
+    },
+    {
+        "description": "",
+        "id": "444890004,
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C95",
+        "name": "Nectarine",
+        "radioId": "Z001-59ZK"
+    },
+    {
+        "description": "",
+        "id": "555890003,
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C95",
+        "name": "Papaye",
+        "radioId": "Z001-59ZK"
+    },
+    {
+        "description": "",
+        "id": "555890005,
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "C95",
+        "name": "Fruit de la passion",
+        "radioId": "Z001-59ZK"
+    },
+]
