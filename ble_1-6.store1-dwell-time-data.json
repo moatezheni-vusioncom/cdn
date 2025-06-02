@@ -37,7 +37,7 @@
     },
     {
         "description": "",
-        "id": "111890005,
+        "id": "111890005",
         "img": "https://picsum.photos/200/200",
         "labelId": "",
         "modularId": "C97",
@@ -46,7 +46,7 @@
     },
     {
         "description": "",
-        "id": "111890006,
+        "id": "111890006",
         "img": "https://picsum.photos/200/200",
         "labelId": "",
         "modularId": "C97",
@@ -55,7 +55,7 @@
     },
     {
         "description": "",
-        "id": "111890007,
+        "id": "111890007",
         "img": "https://picsum.photos/200/200",
         "labelId": "",
         "modularId": "C97",
@@ -64,7 +64,7 @@
     },
     {
         "description": "",
-        "id": "222890001,
+        "id": "222890001",
         "img": "https://picsum.photos/200/200",
         "labelId": "",
         "modularId": "C97",
@@ -73,7 +73,7 @@
     },
     {
         "description": "",
-        "id": "222890002,
+        "id": "222890002",
         "img": "https://picsum.photos/200/200",
         "labelId": "",
         "modularId": "C97",
@@ -82,7 +82,7 @@
     },
     {
         "description": "",
-        "id": "222890003,
+        "id": "222890003",
         "img": "https://picsum.photos/200/200",
         "labelId": "",
         "modularId": "C97",
@@ -91,7 +91,7 @@
     },
     {
         "description": "",
-        "id": "222890004,
+        "id": "222890004",
         "img": "https://picsum.photos/200/200",
         "labelId": "",
         "modularId": "C97",
@@ -100,7 +100,7 @@
     },
     {
         "description": "",
-        "id": "222890005,
+        "id": "222890005",
         "img": "https://picsum.photos/200/200",
         "labelId": "",
         "modularId": "C97",
@@ -109,7 +109,7 @@
     },
     {
         "description": "",
-        "id": "222890006,
+        "id": "222890006",
         "img": "https://picsum.photos/200/200",
         "labelId": "",
         "modularId": "C97",
@@ -118,7 +118,7 @@
     },
     {
         "description": "",
-        "id": "333890001,
+        "id": "333890001",
         "img": "https://picsum.photos/200/200",
         "labelId": "",
         "modularId": "C97",
@@ -127,7 +127,7 @@
     },
     {
         "description": "",
-        "id": "333890002,
+        "id": "333890002",
         "img": "https://picsum.photos/200/200",
         "labelId": "",
         "modularId": "C95",
@@ -136,7 +136,7 @@
     },
     {
         "description": "",
-        "id": "333890003,
+        "id": "333890003",
         "img": "https://picsum.photos/200/200",
         "labelId": "",
         "modularId": "C95",
@@ -145,7 +145,7 @@
     },
     {
         "description": "",
-        "id": "333890004,
+        "id": "333890004",
         "img": "https://picsum.photos/200/200",
         "labelId": "",
         "modularId": "C95",
@@ -154,7 +154,7 @@
     },
     {
         "description": "",
-        "id": "444890001,
+        "id": "444890001",
         "img": "https://picsum.photos/200/200",
         "labelId": "",
         "modularId": "C95",
@@ -163,7 +163,7 @@
     },
     {
         "description": "",
-        "id": "444890002,
+        "id": "444890002",
         "img": "https://picsum.photos/200/200",
         "labelId": "",
         "modularId": "C95",
@@ -172,7 +172,7 @@
     },
     {
         "description": "",
-        "id": "444890003,
+        "id": "444890003",
         "img": "https://picsum.photos/200/200",
         "labelId": "",
         "modularId": "C95",
@@ -181,7 +181,7 @@
     },
     {
         "description": "",
-        "id": "444890004,
+        "id": "444890004",
         "img": "https://picsum.photos/200/200",
         "labelId": "",
         "modularId": "C95",
@@ -190,7 +190,7 @@
     },
     {
         "description": "",
-        "id": "555890003,
+        "id": "555890003",
         "img": "https://picsum.photos/200/200",
         "labelId": "",
         "modularId": "C95",
@@ -199,11 +199,11 @@
     },
     {
         "description": "",
-        "id": "555890005,
+        "id": "555890005",
         "img": "https://picsum.photos/200/200",
         "labelId": "",
         "modularId": "C95",
         "name": "Fruit de la passion",
         "radioId": "Z001-59ZK"
-    },
+    }
 ]
