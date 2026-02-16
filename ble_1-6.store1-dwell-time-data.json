@@ -205,5 +205,15 @@
         "modularId": "C95",
         "name": "Fruit de la passion",
         "radioId": "Z001-59ZK"
+    },
+    {
+        "description": "",
+        "id": "333890002",
+        "img": "https://picsum.photos/200/200",
+        "labelId": "",
+        "modularId": "A25",
+        "name": "Framboise",
+        "radioId": "Y40E-K7SW"
     }
 ]
+
